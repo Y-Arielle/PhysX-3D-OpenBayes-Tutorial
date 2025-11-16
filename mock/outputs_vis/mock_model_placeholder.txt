@@ -1,0 +1,1 @@
+This is a mock placeholder for texture.glb. Replace with real GLB after model download.
